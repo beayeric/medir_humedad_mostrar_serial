@@ -1,0 +1,3 @@
+Web de referencia con toda la información:
+
+https://www.luisllamas.es/arduino-dht11-dht22/
